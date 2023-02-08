@@ -1,5 +1,6 @@
-# flask_api
-Flask API
+# Flask API
+
+Build an API using Flask and Postman to test it.
 
 > Setup
   - Our Toy Data
