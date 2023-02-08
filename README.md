@@ -1,6 +1,8 @@
 # Flask API
 
-Build an API using Flask and SQLAlchemy.
+Build an API using Flask and PostgreSQL.
+
+Source: https://blog.teclado.com/first-rest-api-flask-postgresql-python/
 
 > Setup
   - Our Toy Data
