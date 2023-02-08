@@ -1,6 +1,6 @@
 # Flask API
 
-Build an API using Flask and Postman to test it.
+Build an API using Flask and SQLAlchemy.
 
 > Setup
   - Our Toy Data
